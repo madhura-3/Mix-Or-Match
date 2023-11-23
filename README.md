@@ -1,5 +1,5 @@
 # Mix-Or-Match
-Here is the link for playing the game [*Mix-Or-Match*](https://mmddzz3.github.io/Mix-Or-Match/). :tada:
+Here is the link for playing the game [*Mix-Or-Match*](https://madhura-3.github.io/Mix-Or-Match/). :tada:
 
  - To get started with what is  **Javascript Programming** I implemented  this small memory game called Mix-Or-Match. :video_game:
  - Used Audio sounds for **_victory, gameover, flip, match and as background music_**. :musical_score:
